@@ -541,7 +541,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"MintH662Token.sol": "MintH662Token"
+			"MintH662Token.sol": "MintLsbtdToken"
 		},
 		"evmVersion": "constantinople",
 		"libraries": {},
@@ -652,11 +652,11 @@
 			]
 		},
 		"MintH662Token.sol": {
-			"keccak256": "0xe9e2567d03a89c8313c7ccf796f5a34ca04cb254b74bbea866bcb2163353aad1",
+			"keccak256": "0xa82401a96f4bdaeec0aad23299bc70560b8f982522df04ae31cb957705dd903b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://66d3cad1a8598a299052f43304fef3faa0ecb5d25e23f8357485a3f50d5bd4f0",
-				"dweb:/ipfs/Qmeh3nmX7ZeXB8QeQWuZEAfdtkV7uoyJdNTuEuHbEZAv7U"
+				"bzz-raw://fcb97119117dbc90fa2686fd43215fe25709f6844d82d9e6e5f9f58e1a8bb715",
+				"dweb:/ipfs/QmXSYn3of57QQ7vH4vbWpD9KJhnt3A8TtTHLgvJLKEVebJ"
 			]
 		}
 	},
