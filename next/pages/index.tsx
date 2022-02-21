@@ -11,11 +11,14 @@ const Home: NextPage = () => {
         flexDirection: "column",
       }}
     >
-      <Link href="https://opensea.io/assets/klaytn/0x4bcbf73ecdc0ca3e3b307194e5fb6db7d9190540/1">
-        OpenSea
+      <Link href="https://opensea.io/collection/teamlsbtd">
+        TeamLSBTD(OpenSea)
       </Link>
-      <Link href="https://lsbtd.mypinata.cloud/ipfs/QmY1Yhe2eTGrA2vTerm7TFQJJ8FtWxv8RgzopdaQ2r3VgR">
-        NEOh662Animals1
+      <Link href="https://lsbtd.mypinata.cloud/ipfs/Qmapp6HRjPV83cdazVdVur62srregQLnUmfdgJLCXd1aQP">
+        NEOh662Animals1V3
+      </Link>
+      <Link href="https://lsbtd.mypinata.cloud/ipfs/QmQ5iDTkLVv5upUD2mx5c2HDPstmLSEvrShxnRALAjucRE">
+        NEOh662Animals2V1
       </Link>
     </div>
   );

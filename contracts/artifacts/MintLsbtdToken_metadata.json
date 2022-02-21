@@ -541,7 +541,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"MintH662Token.sol": "MintLsbtdToken"
+			"MintLsbtdToken.sol": "MintLsbtdToken"
 		},
 		"evmVersion": "constantinople",
 		"libraries": {},
@@ -651,7 +651,7 @@
 				"dweb:/ipfs/QmP7C3CHdY9urF4dEMb9wmsp1wMxHF6nhA2yQE5SKiPAdy"
 			]
 		},
-		"MintH662Token.sol": {
+		"MintLsbtdToken.sol": {
 			"keccak256": "0xa82401a96f4bdaeec0aad23299bc70560b8f982522df04ae31cb957705dd903b",
 			"license": "MIT",
 			"urls": [
