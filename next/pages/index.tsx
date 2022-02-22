@@ -20,6 +20,9 @@ const Home: NextPage = () => {
       <Link href="https://lsbtd.mypinata.cloud/ipfs/QmQ5iDTkLVv5upUD2mx5c2HDPstmLSEvrShxnRALAjucRE">
         NEOh662Animals2V1
       </Link>
+      <Link href="https://lsbtd.mypinata.cloud/ipfs/QmYXMDzpkcvNEPdfXTBN8TDH18kbY4JHSvjtGZsuNoEeRA">
+        NEOh662Animals3V1
+      </Link>
     </div>
   );
 };
