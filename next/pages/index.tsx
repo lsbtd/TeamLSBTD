@@ -26,8 +26,8 @@ const Home: NextPage = () => {
       <Link href="https://lsbtd.mypinata.cloud/ipfs/QmcrvYverm6yrfgP31526K3Vuuoe6C6J7nTvnw3P2fkwiQ">
         NEOh662Animals4V1
       </Link>
-      <Link href="https://lsbtd.mypinata.cloud/ipfs/Qmaq7tCLiVUgALKCU8BdJ6qN4Eu7BZQYw5nwikCtoejwAU">
-        NEOh662Animals5V1
+      <Link href="https://lsbtd.mypinata.cloud/ipfs/QmYWfM3bodezaKuEU1FT4xA3W3zgCRuaiE4mZ4Tnvnt4Pb">
+        NEOh662Animals5V2
       </Link>
     </div>
   );
