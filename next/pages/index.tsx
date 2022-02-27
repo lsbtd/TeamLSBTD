@@ -20,11 +20,14 @@ const Home: NextPage = () => {
       <Link href="https://lsbtd.mypinata.cloud/ipfs/QmQ5iDTkLVv5upUD2mx5c2HDPstmLSEvrShxnRALAjucRE">
         NEOh662Animals2V1
       </Link>
-      <Link href="https://lsbtd.mypinata.cloud/ipfs/QmYXMDzpkcvNEPdfXTBN8TDH18kbY4JHSvjtGZsuNoEeRA">
-        NEOh662Animals3V1
+      <Link href="https://lsbtd.mypinata.cloud/ipfs/QmRzyX5rwx7YnxZDnHaZ6FAWkQXKzPJHpwcp6DRC3fwErb">
+        NEOh662Animals3V2
       </Link>
       <Link href="https://lsbtd.mypinata.cloud/ipfs/QmcrvYverm6yrfgP31526K3Vuuoe6C6J7nTvnw3P2fkwiQ">
         NEOh662Animals4V1
+      </Link>
+      <Link href="https://lsbtd.mypinata.cloud/ipfs/Qmaq7tCLiVUgALKCU8BdJ6qN4Eu7BZQYw5nwikCtoejwAU">
+        NEOh662Animals5V1
       </Link>
     </div>
   );
